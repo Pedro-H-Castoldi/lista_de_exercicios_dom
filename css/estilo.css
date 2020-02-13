@@ -1,0 +1,6 @@
+label{
+	display: inline-block;
+	border: solid 3px green;
+	margin: 1px;
+	font-weight: bold;
+}
